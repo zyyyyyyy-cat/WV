@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+logs/
+tmp/
+*.tmp
+*.pth
+*.pt
+*.ckpt
+*.so
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Generated experiment outputs
+test_output*/
+*train_log*.txt
+*test_log*.txt
