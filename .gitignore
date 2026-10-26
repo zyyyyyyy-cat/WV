@@ -24,3 +24,7 @@ tmp/
 test_output*/
 *train_log*.txt
 *test_log*.txt
+
+# Track root training logs
+!/logs/
+!/logs/**
